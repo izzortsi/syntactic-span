@@ -1,0 +1,1 @@
+I'll try to implement the same algorithm but in Julia, trying to make good use of metaprogramming and perhaps GPU/high performance programming
