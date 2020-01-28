@@ -1,5 +1,2 @@
-prog = "1+1"
-
-Meta.parse(prog)
-
-Eval()
+N = [S] #terminal symbols
+E = [a, b] #nonterminal symbols
