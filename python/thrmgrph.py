@@ -26,14 +26,14 @@ for i in E:
                     Ax.append(i*2 +s+ j*2 +s+k*2)               
 
 A=[]
-#theses are the tokens for applying the first production rule
+#these are the tokens for applying the first production rule
 for i in E:
     for j in E:
         if i != j:
             A.append(i + N[0] + j)
 
 B = []
-#theses are the tokens for applying the first production rule
+#these are the tokens for applying the first production rule
 for i in E:
     for j in E:
         if i != j:
